@@ -85,26 +85,26 @@
   overflow: scroll;
 }
 
-.chat-message {
+.message {
   padding: 10px 0 0 0;
 }
 
-.message_name_date {
+.upper-message {
   display: flex;
 }
 
-.message_name {
+.message-user {
   color: #434a54;
   font-size: 16px;
 }
 
-.message_date {
+.message-date {
   color: #999;
   font-size: 12px;
   padding-left: 10px;
 }
 
-.message {
+.lower-message {
   margin-top: 10px;
 }
 
